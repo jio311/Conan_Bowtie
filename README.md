@@ -1,3 +1,5 @@
+![Frame 5](https://github.com/jyoovision/Conan_Bowtie/assets/93302433/81b63c61-b047-47a8-a221-8786467fc21c)
+
 # Conan_Bowtie
 This repository is a project that turns the anime Detective Conan's bow tie into a real device and controls it in pyQT.
 
